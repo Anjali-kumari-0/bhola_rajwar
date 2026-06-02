@@ -1,3 +1,5 @@
+import { fadeUp } from "../../animations";
+import MotionWrapper from "../../animations/MotionWrapper";
 import Navbar from "../common/Navbar";
 import About from "../sections/About";
 import Hero from "../sections/Hero";
@@ -9,14 +11,24 @@ const Home = () => {
     <main className="primary-background min-h-screen">
 
       <Navbar />
+      <MotionWrapper variants={fadeUp}>
+        <Hero />
+      </MotionWrapper>
 
-      <Hero />
 
-      <PracticeAreas />
+      <MotionWrapper variants={fadeUp}>
+        <PracticeAreas />
+      </MotionWrapper>
 
-      <About />
 
-      <Statistics />
+      <MotionWrapper variants={fadeUp}>
+        <About />
+      </MotionWrapper>
+
+
+      <MotionWrapper variants={fadeUp}>
+        <Statistics />
+      </MotionWrapper>
 
     </main>
   );

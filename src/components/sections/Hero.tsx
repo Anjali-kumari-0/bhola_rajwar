@@ -1,4 +1,5 @@
 import content from "../../constants/content.json";
+import lawyer from "../../assets/lawyer.jpeg";
 
 const Hero = () => {
   return (
@@ -31,7 +32,7 @@ const Hero = () => {
 
         <div>
           <img
-            src="/lawyer.png"
+            src={lawyer}
             alt="lawyer"
             className="rounded-3xl shadow-2xl"
           />
