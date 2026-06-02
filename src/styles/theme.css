@@ -1,0 +1,37 @@
+:root {
+  --primary-bg: #ffffff;
+  --secondary-bg: #f8f8f8;
+
+  --primary-text: #111827;
+  --secondary-text: #6b7280;
+
+  --primary-color: #c8a46b;
+  --secondary-color: #0f172a;
+
+  --border-color: #e5e7eb;
+
+  --card-bg: #ffffff;
+
+  --button-bg: #0f172a;
+  --button-text: #ffffff;
+}
+
+/* DARK MODE */
+
+.dark {
+  --primary-bg: #0f172a;
+  --secondary-bg: #111827;
+
+  --primary-text: #f9fafb;
+  --secondary-text: #d1d5db;
+
+  --primary-color: #d4af73;
+  --secondary-color: #f8fafc;
+
+  --border-color: #374151;
+
+  --card-bg: #1f2937;
+
+  --button-bg: #d4af73;
+  --button-text: #0f172a;
+}

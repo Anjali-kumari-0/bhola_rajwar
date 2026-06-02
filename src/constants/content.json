@@ -1,0 +1,64 @@
+{
+  "navbar": {
+    "logo": "Justice Legal",
+    "links": [
+      "Home",
+      "About Us",
+      "Practice Areas",
+      "Case Results",
+      "Contact"
+    ]
+  },
+
+  "hero": {
+    "subtitle": "Defending Rights. Delivering Justice.",
+    "title1": "Your Rights.",
+    "title2": "Our Commitment.",
+    "title3": "Justice Delivered.",
+    "description": "We provide strategic legal solutions with trust, integrity and proven results.",
+    "button": "Book Consultation"
+  },
+
+  "practiceAreas": [
+    {
+      "title": "Family Law",
+      "description": "Solutions with care and compassion."
+    },
+    {
+      "title": "Criminal Defense",
+      "description": "Strong representation and fair defense."
+    },
+    {
+      "title": "Corporate Law",
+      "description": "Legal support for growing businesses."
+    },
+    {
+      "title": "Civil Litigation",
+      "description": "Effective courtroom representation."
+    }
+  ],
+
+  "about": {
+    "title": "We Fight. You Win.",
+    "description": "Experienced advocates delivering personalized legal solutions with transparency and commitment."
+  },
+
+  "stats": [
+    {
+      "number": "2000+",
+      "label": "Clients Served"
+    },
+    {
+      "number": "1500+",
+      "label": "Cases Won"
+    },
+    {
+      "number": "20+",
+      "label": "Years Experience"
+    },
+    {
+      "number": "98%",
+      "label": "Success Rate"
+    }
+  ]
+}

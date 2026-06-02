@@ -1,0 +1,41 @@
+.primary-background {
+  background: var(--primary-bg);
+}
+
+.secondary-background {
+  background: var(--secondary-bg);
+}
+
+.primary-text {
+  color: var(--primary-text);
+}
+
+.secondary-text {
+  color: var(--secondary-text);
+}
+
+.primary-color {
+  color: var(--primary-color);
+}
+
+.primary-border {
+  border-color: var(--border-color);
+}
+
+.card-background {
+  background: var(--card-bg);
+}
+
+.primary-button {
+  background: var(--button-bg);
+  color: var(--button-text);
+}
+
+.section-padding {
+  padding: 80px 24px;
+}
+
+.container-layout {
+  max-width: 1280px;
+  margin: auto;
+}

@@ -1,0 +1,15 @@
+@import "./theme.css";
+@import "./utilities.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: Inter, sans-serif;
+}
+
+body {
+  background: var(--primary-bg);
+  color: var(--primary-text);
+}
