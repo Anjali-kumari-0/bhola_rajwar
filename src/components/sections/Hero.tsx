@@ -44,7 +44,6 @@
 // };
 
 // export default Hero;
-import content from "../../constants/content.json";
 import lawyer from "../../assets/lawyer.jpeg";
 
 const Hero = () => {
