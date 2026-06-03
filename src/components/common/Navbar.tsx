@@ -2,7 +2,7 @@ import content from "../../constants/content.json";
 
 const Navbar = () => {
   return (
-    <header className="border-b primary-border">
+    <header className="border-b primary-border px-5">
       <div className="container-layout flex items-center justify-between py-5">
         <h1 className="text-2xl font-bold primary-color">
           {content.navbar.logo}

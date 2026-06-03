@@ -2,7 +2,7 @@ import content from "../../constants/content.json";
 
 const PracticeAreas = () => {
   return (
-    <section className="section-padding secondary-background">
+    <section className="section-padding secondary-background py-6 px-5">
 
       <div className="container-layout">
 

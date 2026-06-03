@@ -2,7 +2,7 @@ import content from "../../constants/content.json";
 
 const About = () => {
   return (
-    <section className="section-padding">
+    <section className="section-padding py-10 px-5">
 
       <div className="container-layout grid lg:grid-cols-2 gap-10 items-center">
 

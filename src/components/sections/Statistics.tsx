@@ -2,7 +2,7 @@ import content from "../../constants/content.json";
 
 const Statistics = () => {
   return (
-    <section className="section-padding secondary-background">
+    <section className="section-padding secondary-background py-6 px-5">
 
       <div className="container-layout grid md:grid-cols-2 lg:grid-cols-4 gap-6">
 
